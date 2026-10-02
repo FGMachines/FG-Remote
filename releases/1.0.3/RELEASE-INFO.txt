@@ -1,0 +1,7 @@
+FG Remote 1.0.3 Hardened Signed
+Package: com.fgmachines.remote
+Version code: 4
+Publisher: FG Machines
+R8 optimized: yes
+Signed: yes
+Signing certificate SHA-256: b9ca4a23be53f161a47b5aaf97023d2bbbeebdaf671337d2466fb74cc1f29fdf
